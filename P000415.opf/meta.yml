@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC289
   title: ཐུའུ་བཀྭན་བློ་བཟང་ཆོས་ཀྱི་ཉི་མའི་གསུང་མགུར་བསླབ་བྱ་དང་ཆབ་ཤོག
-  volume: ''
+  volume:
+    01a574340f1a401b9fdbda7274192bdd:
+      image_group_id: I2PD18301
+      title: Volume 1 of thu'u bkwan blo bzang chos kyi nyi ma'i gsung mgur bslab
+        bya dang chab shog
+      volume_number: 1
+      total_pages: 330
   author: ''
+ebook_metadata:
+  title: ཐུའུ་བཀྭན་བློ་བཟང་ཆོས་ཀྱི་ཉི་མའི་གསུང་མགུར་བསླབ་བྱ་དང་ཆབ་ཤོག
+  author: ''
+  sku: P000415
+  cover: cover.jpg
+  layers:
+  - pagination
